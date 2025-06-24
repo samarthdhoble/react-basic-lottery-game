@@ -21,27 +21,6 @@ h1 {
   margin-bottom: 1rem;
 }
 
-.ticket {
-  display: flex;
-  justify-content: center;
-  gap: 1rem;
-  margin-bottom: 1.5rem;
-}
-
-.ticket span {
-  background: #6c5ce7;
-  color: white;
-  font-size: 1.5rem;
-  padding: 0.8rem 1.2rem;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  transition: transform 0.2s ease;
-}
-
-.ticket span:hover {
-  transform: scale(1.1);
-}
-
 button {
   background: #00b894;
   color: white;
